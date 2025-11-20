@@ -1,1 +1,13 @@
-include: [".well-known"]
+title: Palette Labs
+email: engineering@palettelabs.com
+description: Building Local Protocol, economic infrastructure for peer-to-peer marketplaces.
+url: "https://palettelabs.com"
+twitter: palette_labs_inc
+permalink: /:categories/:title:output_ext
+markdown: kramdown
+kramdown:
+  math_engine: katex
+  input: GFM
+  syntax_highlighter: rouge
+plugins:
+  - jekyll-feed
