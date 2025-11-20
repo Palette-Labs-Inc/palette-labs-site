@@ -3,8 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-I live in Boulder, CO. I am currently working on Nosh, a decentralized delivery network. Send me an email at mike@noshdelivery.co
+Local Protocol is economic and networking infrastructure for peer-to-peer marketplaces.
+
+With Local Protocol, Buyers and Sellers are free to engage in commerce without the need for a middleman. Local's economic design gives both parties the same trust and security guarantees of centralized marketplaces in a fully distributed network.
 
 ## Misc.
-- [palette-labs-inc](https://palette-labs-inc.github.io/) job openings + interview challenges.
-- [passkeys](https://github.com/Palette-Labs-Inc/passkeys) Native Passkeys on iOS 15.0+ and Android API 28+ using React Native with [webAuthN](https://www.w3.org/TR/webauthn-2/) and passkeys in react-native
+- [whitepaper](https://palette-labs-inc.github.io/) to learn more
